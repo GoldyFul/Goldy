@@ -1,0 +1,42 @@
+.container-fluid{
+    background-color: #FF7D29;
+    font-size: 150%;
+}
+.dropdown-menu{
+    background-color: #FF7D29;
+}
+.form-control{
+    background-color: #FF7D29;
+}
+.title{
+    border: 2px solid #fcc59f;
+}
+.upper_text{
+    border: 2px solid #fcc59f;
+}
+.ingredients{
+    border: 2px solid #fcc59f;
+}
+.howto{
+    border: 2px solid #fcc59f;
+}
+div {
+    color: #FEFFD2;
+}
+ul {
+    color: #FEFFD2;
+}
+ol {
+    color: #FEFFD2;
+}
+.people{
+    width: 420px;
+    height: 300px;
+}
+.vidweo{
+    width: 500px;
+    height: 400px;
+}
+hr{
+    border: 3px solid;
+}

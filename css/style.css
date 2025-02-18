@@ -1,0 +1,18 @@
+.container-fluid{
+    background-color: #C14600;
+}
+body{
+    background-color: #C14600;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+nav{
+    background-color: #C14600;
+}
+.jumbotron{
+    background-color: #FF9D23;
+}
